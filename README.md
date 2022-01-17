@@ -1,1 +1,1 @@
-# Golang Language & Tools Development
+# Go Language & Tools Development
