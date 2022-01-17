@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Go Development](#go-language-development)
+- [Go Development](#go-language--development)
     - [Audio and Music](#audio-and-music)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Bot Building](#bot-building)
