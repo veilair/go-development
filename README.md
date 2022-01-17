@@ -1,7 +1,7 @@
 # Go Language & Development
 > Welcome to the world of Go. An ongoing curated list of frameworks, libraries, learning tutorials, best software development practices and resources in Go Language.
 
-What is Go?
+### What is Go?
 Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
 ![go](https://github.com/veilair/go-development/blob/main/img/go-programming.png)
