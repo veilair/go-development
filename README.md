@@ -1,9 +1,9 @@
 # Go Language & Development
 > Welcome to the world of Go. An ongoing curated list of frameworks, libraries, learning tutorials, best software development practices and resources in Go Language.
 
-### Contents
+## Table of Contents
 
-- [Awesome Go](#awesome-go)
+- [Go Development](#go-language-development)
     - [Audio and Music](#audio-and-music)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Bot Building](#bot-building)
