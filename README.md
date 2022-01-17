@@ -1,6 +1,13 @@
 # Go Language & Development
 > Welcome to the world of Go. An ongoing curated list of frameworks, libraries, learning tutorials, best software development practices and resources in Go Language.
 
+
+
+
+### Why Go?
+
+Go is a really fast language. Because Go is compiled to machine code, it will naturally outperform languages that are interpreted or have virtual runtimes. Go programs also compile extremely fast, and the resulting binary is very small.
+
 ## Table of Contents
 
 - [Go Development](#go-language--development)
