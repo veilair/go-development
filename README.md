@@ -99,6 +99,8 @@ Go is a really fast language. Because Go is compiled to machine code, it will na
         - [Tutorials](#tutorials)
 - [Other Useful Links](#other-useful-links)
 
+[Back to top](#table-of-contents)
+
 
 
 ## Audio and Music
@@ -106,23 +108,25 @@ Go is a really fast language. Because Go is compiled to machine code, it will na
 *Libraries for manipulating audio.*
 
 * [EasyMIDI](https://github.com/algoGuy/EasyMIDI) - EasyMidi is a simple and reliable library for working with standard midi file (SMF).
-* [flac](https://github.com/eaburns/flac) - No-frills native Go FLAC decoder that decodes FLAC files into byte slices. - :arrow_down:4 - :star:52
-* [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams. - :arrow_down:17 - :star:29
-* [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser. - :arrow_down:0 - :star:11
-* [go-sox](https://github.com/krig/go-sox) - libsox bindings for go. - :arrow_down:13 - :star:37
-* [go_mediainfo](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go. - :arrow_down:2 - :star:9
-* [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go. - :arrow_down:0 - :star:3
-* [id3v2](https://github.com/bogem/id3v2) - Fast and stable ID3 parsing and writing library for Go. - :arrow_down:10 - :star:8
-* [malgo](https://github.com/gen2brain/malgo) - Mini audio library. - :arrow_down:0 - :star:26
-* [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library. - :arrow_down:0 - :star:8
-* [mix](https://github.com/go-mix/mix) - Sequence-based Go-native audio mixer for music apps. - :arrow_down:5 - :star:40
-* [mp3](https://github.com/tcolgate/mp3) - Native Go MP3 decoder. - :arrow_down:11 - :star:19
-* [music-theory](https://github.com/go-music-theory/music-theory) - Music theory models in Go. - :arrow_down:0 - :star:120
-* [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library. - :arrow_down:93 - :star:63
-* [portmidi](https://github.com/rakyll/portmidi) - Go bindings for PortMidi. - :arrow_down:55 - :star:93
-* [taglib](https://github.com/wtolson/go-taglib) - Go bindings for taglib. - :arrow_down:22 - :star:44
-* [vorbis](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies). - :arrow_down:1 - :star:9
-* [waveform](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams. - :arrow_down:1 - :star:135
+* [flac](https://github.com/eaburns/flac) - No-frills native Go FLAC decoder that decodes FLAC files into byte slices.
+* [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams. 
+* [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
+* [go-sox](https://github.com/krig/go-sox) - libsox bindings for go.
+* [go_mediainfo](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go. 
+* [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go. 
+* [id3v2](https://github.com/bogem/id3v2) - Fast and stable ID3 parsing and writing library for Go. 
+* [malgo](https://github.com/gen2brain/malgo) - Mini audio library. 
+* [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
+* [mix](https://github.com/go-mix/mix) - Sequence-based Go-native audio mixer for music apps. 
+* [mp3](https://github.com/tcolgate/mp3) - Native Go MP3 decoder. 
+* [music-theory](https://github.com/go-music-theory/music-theory) - Music theory models in Go. 
+* [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library. 
+* [portmidi](https://github.com/rakyll/portmidi) - Go bindings for PortMidi. 
+* [taglib](https://github.com/wtolson/go-taglib) - Go bindings for taglib. 
+* [vorbis](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies). 
+* [waveform](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams. 
+
+[Back to top](#table-of-contents)
 
 ## Authentication and OAuth
 
@@ -153,6 +157,8 @@ Go is a really fast language. Because Go is compiled to machine code, it will na
 * [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) - Go session management using the SessionGate Redis module. - :arrow_down:0 - :star:4
 * [sessions](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers. - :arrow_down:0 - :star:29
 * [signedvalue](https://github.com/sashka/signedvalue) - Signed and timestamped strings compatible with [Tornado's](https://github.com/tornadoweb/tornado) `create_signed_value`, `decode_signed_value`, and therefore `set_secure_cookie` and `get_secure_cookie`. - :arrow_down:0 - :star:5
+
+[Back to top](#table-of-contents)
 
 ## Bot Building
 
