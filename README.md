@@ -2,7 +2,7 @@
 > Welcome to the world of Go. An ongoing curated list of frameworks, libraries, learning tutorials, best software development practices and resources in Go Language.
 
 
-
+![go](https://github.com/veilair/go-development/blob/main/img/go-programming.png)
 
 ### Why Go?
 
@@ -3264,3 +3264,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [steve0hh/midas](https://github.com/steve0hh/midas) - Go implementation of MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams
 * [gookit/color](https://github.com/gookit/color) - A command-line color library with true color support, universal API methods and Windows support.
 
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#table-of-contents)
