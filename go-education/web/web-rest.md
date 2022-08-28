@@ -1,0 +1,107 @@
+# Web / REST
+
+## 📘 Resources
+- [Writing Web Applications](https://go.dev/doc/articles/wiki/)
+- [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
+- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - A golang ebook intro how to build a web with golang
+- [Web & API Development](https://github.com/golang/go/wiki/Articles#web--api-development)
+
+## 📕 Articles
+- [How to Build a Web App with Gin](https://universalglue.dev/series/how-to-build-a-web-app-with-gin/) - A series of articles about building a small web app using Go, Gin, and Gorm
+- [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+- [Writing Web Applications](https://go.dev/doc/articles/wiki/)
+- [Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development](https://www.mindinventory.com/blog/golang-project-structure/)
+- [GOLANG TUTORIAL - WEB APP PART 0](https://www.bogotobogo.com/GoLang/GoLang_Web.php)
+- [GOLANG TUTORIAL - WEB APP PART 1](https://www.bogotobogo.com/GoLang/GoLang_Web_Application_1.php)
+- [GOLANG TUTORIAL - WEB APP 2 (USING NET/HTTP)](https://www.bogotobogo.com/GoLang/GoLang_Web_Application_2.php)
+- [REST Servers in Go: Part 1 - standard library](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+- [REST Servers in Go: Part 2 - using a router package](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-2-using-a-router-package/)
+- [REST Servers in Go: Part 3 - using a web framework](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-3-using-a-web-framework/)
+- [REST Servers in Go: Part 4 - using OpenAPI and Swagger](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/)
+- [REST Servers in Go: Part 5 - middleware](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-5-middleware/)
+- [REST Servers in Go: Part 6 - authentication](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-6-authentication/)
+- [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+- [Consuming A RESTful API With Go](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
+- [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
+- [Creating a simple “Hello World!” HTTP Server in Go](https://medium.com/rungo/creating-a-simple-hello-world-http-server-in-go-31c7fd70466e)
+- [Beginners guide to serving files using HTTP servers in Go](https://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac)
+- [Making external HTTP requests in Go](https://medium.com/rungo/making-external-http-requests-in-go-eb4c015f8839)
+- [API design: principles and best practices](https://yourbasic.org/algorithms/your-basic-api/)
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/)
+- [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
+- [Using Golang to Create a RESTful JSON API](https://andela.com/insights/using-golang-to-create-a-restful-json-api/)
+- [Handling requests](https://livebook.manning.com/book/go-web-programming/chapter-3/29)
+- [CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing](https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121)
+- [Developing a RESTful API with Go](https://dev.to/kevwan/developing-a-restful-api-with-go-3jo5)
+- [Best practices on developing monolithic services in Go](https://dev.to/kevwan/best-practices-on-developing-monolithic-services-in-go-3c95)
+- [Build a REST API with Go - For Beginners](https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp)
+- [Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
+- [Implement RESTful HTTP API in Go using Gin](https://dev.to/techschoolguru/implement-restful-http-api-in-go-using-gin-4ap1)
+## 📺 Videos
+- [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+- [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
+- [Go REST API With MYSQL, GIN, GORM & JWT - Playlist](https://www.youtube.com/playlist?list=PLkVx132FdJZlTc_1gucKZ00b_s45DQlVQ)
+- [Backend master class [Golang, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- [Golang Tutorials - CoderVlogger - Playlist](https://www.youtube.com/playlist?list=PLxa49UnOmIzr3Zm8DyzRlOwnXdgiYSJzA)
+- [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
+- [Creating a Go API using an ORM - Tutorial](https://www.youtube.com/watch?v=VAGodyl84OY&list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY&index=6)
+- [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
+- [REST API with Go, Chi and Handler Testing](https://www.youtube.com/watch?v=zeme_TmXyBk)
+- [Golang Web Course - Learn To Code](https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj)
+- [[Golang] Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
+- [Develop A Production Ready REST API in Go](https://tutorialedge.net/courses/go-rest-api-course/)
+- [Introduction to Go Fiber (and why you should NOT use it)](https://www.youtube.com/watch?v=INt68SlX-LE)
+- [Building a Go REST API using Gorm and Fiber!](https://www.youtube.com/watch?v=Iq2qT0fRhAA)
+- [Go Programming - Fiber Web Framework](https://www.youtube.com/watch?v=xHvzNJzA9DQ)
+- [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
+- [11 Golang for C# Developers - Web Api using Gorilla MUX](https://www.youtube.com/watch?v=hd5GoTjlCW4)
+## 📦 Libraries
+- [gocondor/gocondor](https://github.com/gocondor/gocondor) - A golang framework for building modern APIs
+- [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+- [gofiber/fiber](https://github.com/gofiber/fiber) - Express inspired web framework written in Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance.
+- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - The API framework based on Gin's modular design encapsulates common functions
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
+- [eyazici90/go-mediator](https://github.com/eyazici90/go-mediator) - Simple mediator implementation in go
+- [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang
+## 🚀 Samples
+- [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
+- [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
+- [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog)
+- [uberswe/golang-base-project](https://github.com/uberswe/golang-base-project) - A minimal Go project with user authentication ready out of the box. All frontend assets should be less than 100 kB on every page load.
+- [doppelganger113/simple_gopher](https://github.com/doppelganger113/simple_gopher) - Boilerplate for writing Go applications without framework using hexagonal application development approach
+- [gocondor/examples](https://github.com/gocondor/examples)
+- [foryforx/shopping](https://github.com/foryforx/shopping) - Golang, Gin, JWT, sqlite/SQL - Shopping cart application
+- [melardev/GoGonicEcommerceApi](https://github.com/melardev/GoGonicEcommerceApi) - Ecommerce Rest API application built in Go with Gin Gonic + Gorm
+- [5olitude/ecommerce](https://github.com/5olitude/ecommerce) - A fully functional Ecommerce API in GO GIN Framework and mongoDB with JWT Authentication
+- [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
+- [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
+- [ardanlabs/service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
+- [ybkuroki/go-webapp-sample](https://github.com/ybkuroki/go-webapp-sample) - golang, echo, gorm
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog)
+- [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
+- [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
+- [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, 
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - How to build a Dockerized RESTful API application using Go.
+- [HON9LIN/go-echo-boilerplate](https://github.com/HON9LIN/go-echo-boilerplate)
+- [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [powerman/go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
+- [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
+- [johan-lejdung/go-microservice-api-guide/](https://github.com/johan-lejdung/go-microservice-api-guide/)
+- [victorsteven/Go-JWT-Postgres-Mysql-Restful-API](https://github.com/victorsteven/Go-JWT-Postgres-Mysql-Restful-API) - This is an API built with golang, jwt, gorm, postgresql, mysql
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.
+- [techschool/simplebank](https://github.com/techschool/simplebank)
+- [herusdianto/gorm_crud_example/](https://github.com/herusdianto/gorm_crud_example/) - GoLang, GORM & Gin CRUD Example
+- [omrfrkazt/golang-generic-repository-pattern](https://github.com/omrfrkazt/golang-generic-repository-pattern) - Golang | Generic Repository Pattern
+- [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
+- [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.
+
+## Recipes
+- [gofiber/recipes](https://github.com/gofiber/recipes) - Examples for 🚀 Fiber
+- [labstack/echox](https://github.com/labstack/echox) - Echo cookbook and website
