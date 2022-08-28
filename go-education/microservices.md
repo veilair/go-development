@@ -1,0 +1,94 @@
+# Microservices
+
+## 📕 Articles
+- [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
+- [Building Microservices with Event Sourcing/CQRS in Go using gRPC, NATS Streaming and CockroachDB](https://shijuvar.medium.com/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa)
+- [Go Microservices with Go kit: Introduction](https://shijuvar.medium.com/go-microservices-with-go-kit-introduction-43a757398183)
+- [Building Distributed Systems and Microservices in Go with NATS Streaming](https://shijuvar.medium.com/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
+- [Introducing Watermill - Go event-driven applications library](https://threedots.tech/post/introducing-watermill/)
+- [Microservices in Go using the Go kit](https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf)
+- [Go EventSourcing and CQRS microservice using EventStoreDB](https://dev.to/aleksk1ng/go-eventsourcing-and-cqrs-microservice-using-eventstoredb-5djo) - Go Event Sourcing CQRS Microservice
+- [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
+- [Go, NATS, gRPC and PostgreSQL clean architecture microservice with monitoring and tracing](https://dev.to/aleksk1ng/go-nats-grpc-and-postgresql-clean-architecture-microservice-with-monitoring-and-tracing-2kka)
+- [Go, Kafka, gRPC and MongoDB microservice with metrics and tracing](https://dev.to/aleksk1ng/go-kafka-grpc-and-mongodb-microservice-with-metrics-and-tracing-448d)
+- [Go, RabbitMQ and gRPC Clean Architecture microservice](https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn)
+- [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
+- [Using GraphQL with Microservices in Go](https://outcrawl.com/go-graphql-gateway-microservices)
+- [Building a Microservices Application in Go Following the CQRS Pattern](https://outcrawl.com/go-microservices-cqrs-docker)
+- [Microservices in Go with gRPC, API Gateway, and Authentication — Part 1/2](https://levelup.gitconnected.com/microservices-with-go-grpc-api-gateway-and-authentication-part-1-2-393ad9fc9d30)
+- [Microservices in Go with gRPC, API Gateway, and Authentication — Part 2/2](https://levelup.gitconnected.com/microservices-in-go-with-grpc-api-gateway-and-authentication-ba36cc32d167)
+## 📺 Videos
+- [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
+- [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)
+- [Building Microservices in Golang/Go - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
+- [How I Built Microservices In Go In 30 Minutes](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
+- [Building gRPC Microservices in Go](https://tutorialedge.net/courses/go-grpc-services-course/)
+
+## 📦 Libraries
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
+- [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - a Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
+- [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
+- [UnderTreeTech/waterdrop](https://github.com/UnderTreeTech/waterdrop) - Waterdrop is a high performance micro service framework. Waterdrop comes from (The Three Body Problem).
+- [dapr/go-sdk](https://github.com/dapr/go-sdk) - Dapr SDK for go
+- [moleculer-go/moleculer](https://github.com/moleculer-go/moleculer) - Progressive microservices framework for Go - based and compatible with
+- [beatlabs/patron](https://github.com/beatlabs/patron) - Microservice framework following best cloud practices with a focus on productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [pace/bricks](https://github.com/pace/bricks) - A standard library for microservices.
+- [obsidiandynamics/goharvest](https://github.com/obsidiandynamics/goharvest) - Transactional outbox harvester for Postgres → Kafka, written in Go
+- [wework/grabbit](https://github.com/wework/grabbit) - A lightweight transactional message bus on top of RabbitMQ
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
+- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go
+- [ThreeDotsLabs/watermill-amqp](https://github.com/ThreeDotsLabs/watermill-amqp) - AMQP Pub/Sub for the Watermill project.
+## 🚀 Samples
+- [MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example) - Go microservice tutorial project using Domain Driven Design and Onion Architecture!
+- [go-kratos/beer-shop](https://github.com/go-kratos/beer-shop) - An online shop application, the complete microservices demo for kratos.
+- [qin-jd/shopping](https://github.com/qin-jd/shopping)
+- [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop)
+- [ThreeDotsLabs/event-driven-example](https://github.com/ThreeDotsLabs/event-driven-example) - An example Event-Driven application in Go built with Watermill library.
+- [ardanlabs/service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [digota/digota](https://github.com/digota/digota) - ecommerce microservice
+- [sdgmf/go-project-sample](https://github.com/sdgmf/go-project-sample) - Introduce the best practice experience of Go project with a complete project example
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - How to build a Dockerized RESTful API application using Go.
+- [begmaroman/go-micro-boilerplate](https://github.com/begmaroman/go-micro-boilerplate) - The boilerplate of the GoLang application with a clear microservices architecture.
+- [zeromicro/zeromall](https://github.com/zeromicro/zeromall) - The mall system based on go-zero.
+- [autodidaddict/go-shopping](https://github.com/autodidaddict/go-shopping) - A sample suite of services built on the go-micro framework
+- [gmsec/gmsec](https://github.com/gmsec/gmsec) - golang micro service base on gin.
+- [raycad/go-microservices](https://github.com/raycad/go-microservices) - Golang Microservices Example
+- [hb-chen/micro-starter](https://github.com/hb-chen/micro-starter) 
+- [shijuvar/gokit-examples](https://github.com/shijuvar/gokit-examples) - Examples for building microservices with Go kit (gokit.io)
+- [tinrab/spidey](https://github.com/tinrab/spidey) - Building Distributed Systems and Microservices in Go with NATS Streaming
+- [ebosas/microservices](https://github.com/ebosas/microservices) - A microservices example in Go
+- [xmlking/micro-starter-kit](https://github.com/xmlking/micro-starter-kit) - Cloud Native GoLang Microservices - gRPC, GraphQL
+- [antklim/go-microservices](https://github.com/antklim/go-microservices) - Examples of microservices written in Go using different frameworks
+- [buptmiao/microservice-app](https://github.com/buptmiao/microservice-app) - A microservices architecture app powered by golang.
+- [uid4oe/microservices-go-grpc](https://github.com/uid4oe/microservices-go-grpc) - Go microservices with REST, and gRPC using BFF pattern. This repository contains backend services. Everything is dockerized and ready to "Go" 
+- [powerman/go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
+- [benc-uk/dapr-store](https://github.com/benc-uk/dapr-store) - Sample application showcasing the use of Dapr to build microservices based apps
+- [generals-space/gokit](https://github.com/generals-space/gokit) - go-kit example.
+- [AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice) - Go products microservice
+- [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
+- [AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL](https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL) - Go Nats Streaming gRPC PostgerSQL emails microservice
+- [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with tracing
+- [AleksK1NG/Go-booking-microservices-example](https://github.com/AleksK1NG/Go-booking-microservices-example) - Go Hotels microservices
+- [obitech/micro-obs](https://github.com/obitech/micro-obs) - Microservice observability with Go
+- [laaksomavrick/twitter-go](https://github.com/laaksomavrick/twitter-go) - A high throughput, horizontally scalable microservice backend using Go, Cassandra, RabbitMQ, Kubernetes, Helm.
+- [Crizstian/cinema-microservice-in-GO](https://github.com/Crizstian/cinema-microservice-in-GO) - Example of a cinema microservice written in Golang deployed on Hashicorp Stack tools
+- [ThreeDotsLabs/nats-example](https://github.com/ThreeDotsLabs/nats-example) - An example Go project for running local development environment, with hot code reloading.
+- [musobarlab/ecommerce-grpc-microservice](https://github.com/musobarlab/ecommerce-grpc-microservice) - (On Progress) Lab (Building E-Commerce Microservices using Golang, Rest and GRPC with Multiple Docker Container)
+- [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
+- [pkedy/golang-dapr](https://github.com/pkedy/golang-dapr) - "From Zero to Hero with Go and Dapr" presented at GopherCon 2021
+- [eminetto/talk-microservices-go](https://github.com/eminetto/talk-microservices-go)
+- [eminetto/talk-microservices-gokit](https://github.com/eminetto/talk-microservices-gokit)
+- [AleksK1NG/es-microservice](https://github.com/AleksK1NG/es-microservice) - Go Event Sourcing CQRS Microservice
+- [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
+- [Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+- [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB
+- [hellokvn/go-grpc-product-svc](https://github.com/hellokvn/go-grpc-product-svc)
+- [batazor/microservice-template-ddd](https://github.com/batazor/microservice-template-ddd) - Golnag microservice-template by DDD
