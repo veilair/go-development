@@ -1,0 +1,51 @@
+# Clean Architecture
+
+## 📕 Articles
+- [An easy and practical approach to structuring Golang applications](https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189)
+- [Beautify your Golang project](https://itnext.io/beautify-your-golang-project-f795b4b453aa)
+- [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
+- [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/)
+- [Clean Architecture, 2 years later](https://dev.to/eminetto/clean-architecture-2-years-later-4een)
+- [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
+- [Go, NATS, gRPC and PostgreSQL clean architecture microservice with monitoring and tracing](https://dev.to/aleksk1ng/go-nats-grpc-and-postgresql-clean-architecture-microservice-with-monitoring-and-tracing-2kka)
+- [Go, RabbitMQ and gRPC Clean Architecture microservice](https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn)
+- [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
+- [Microservices in Golang: Organising code](https://armjn.xyz/post/golang-microservice-project-structure/)
+- [Go EventSourcing and CQRS microservice using EventStoreDB ](https://dev.to/aleksk1ng/go-eventsourcing-and-cqrs-microservice-using-eventstoredb-5djo)
+- [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing ](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
+- [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
+## 📺 Videos
+- [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
+- [Clean architecture in Go. How to organize a project structure?](https://www.youtube.com/watch?v=goC-gCNWhS4)
+- [How To Structure Your Go App - Full Course [ Hex Arch + Tests ]](https://www.youtube.com/watch?v=MpFog2kZsHk)
+- [Go Programming - Hexagonal Architecture](https://www.youtube.com/watch?v=k3JZI-sQs2k)
+- [Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API](https://www.youtube.com/watch?v=Yg_ae0UvCv4)
+- [dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture](https://www.youtube.com/watch?v=vKbVrsMnhDc)
+## 🚀 Samples
+- [percybolmer/ddd-go/tree/clean-architecture](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
+- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring
+- [caohoangnam/go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write language go and using clean architecture
+- [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog)
+- [ruslantsyganok/clean_arcitecture_golang_example](https://github.com/ruslantsyganok/clean_arcitecture_golang_example) - Clean Architecture Golang Example (kinda)
+- [selikapro/hexArchGoGRPC](https://github.com/selikapro/hexArchGoGRPC)
+- [codebangkok/golang](https://github.com/codebangkok/golang)
+- [MBvisti/weight-tracker-article](https://github.com/MBvisti/weight-tracker-article)
+- [s1s1ty/go-mysql-crud](https://github.com/s1s1ty/go-mysql-crud)
+- [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop)
+- [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom is a framework based on a hexagonal architecture that can support the congested domain model paradigm. 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
+- [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
+- [eyazici90/go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in go
+- [musobarlab/ecommerce-grpc-microservice](https://github.com/musobarlab/ecommerce-grpc-microservice) - (On Progress) Lab (Building E-Commerce Microservices using Golang, Rest and GRPC with Multiple Docker Container)
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.
+- [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
+- [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with tracing
+- [AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL](https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL) - Go Nats Streaming gRPC PostgerSQL emails microservice
+- [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
+- [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
+- [joaofbantunes/OOPsIDidItAgainGo](https://github.com/joaofbantunes/OOPsIDidItAgainGo) - OOPs, I did it again - Go edition
+- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+- [Creatly/creatly-backend](https://github.com/Creatly/creatly-backend) - Creatly backend app
+- [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - The fastest way to deploy a restful api's with Gin Framework with a structured project that defaults to PostgreSQL database and JWT authentication middleware stored in Redis
